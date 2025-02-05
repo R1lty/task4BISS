@@ -5,7 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-
+### `npm install axios`
+### `npm install @material-ui/core`
 ### `npm start`
 
 Runs the app in the development mode.\
