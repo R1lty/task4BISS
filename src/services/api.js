@@ -12,7 +12,7 @@ export const getClients = async () => {
         });
         return response.data;
     } catch (error) {
-        console.error("Ошибка при получении данных клиентов:", error);
+        console.error("Error retrieving customer data:", error);
         throw error;
     }
 };
